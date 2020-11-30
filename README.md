@@ -1,2 +1,2 @@
 # Python-College-Assignment
-This our the project assignment for my college Vth semester BCA
+This is collection of the project assignment for my college Vth semester BCA
